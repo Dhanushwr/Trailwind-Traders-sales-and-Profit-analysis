@@ -16,7 +16,7 @@ _(This project is a part of Microsoft Power BI Data Analyst Professional Certifi
 ## **_Overview_**
 This project outlines the development of a Power BI dashboard for Tailwind Traders to analyze and visualize sales and profit data. The dashboard empowers decision-making by providing a comprehensive view of global sales and profit performance.
 
-## **Data source**: [Link] 
+## **Data source**: [Link](https://github.com/Dhanushwr/Trailwind-Traders-sales-and-Profit-analysis/tree/main/Raw%20data)
 
 ## **_Objective_**
 The primary goal of this project is to empower Tailwind Traders with a data-driven decision-making platform. By providing a comprehensive view of global sales and profit performance, the dashboard will enable the company to identify trends, opportunities, and areas for improvement.
