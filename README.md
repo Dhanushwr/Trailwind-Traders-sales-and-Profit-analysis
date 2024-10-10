@@ -37,7 +37,7 @@ The primary goal of this project is to empower Tailwind Traders with a data-driv
 - Calculated yearly profit margin, quarterly profit, year-to-date profit, and median sales.
 - Performed performance analysis to measure load times and identify slow-loading visuals.
 
-## _**Visualization**_
+## [_**Visualization**_](https://github.com/Dhanushwr/Trailwind-Traders-sales-and-Profit-analysis/blob/main/Trialwind%20Traders%20report.pdf)
 - Created various charts (bar, column, pie, line) to visualize sales and profit trends.
 - Used cards and KPIs to display key metrics.
 - Added a slicer for filtering data by country.
