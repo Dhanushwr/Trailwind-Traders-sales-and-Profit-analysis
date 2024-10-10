@@ -51,7 +51,7 @@ The primary goal of this project is to empower Tailwind Traders with a data-driv
 - Designed a visually appealing and intuitive dashboard layout.
 - Organized visualizations and metrics for better understanding.
 - Incorporated storytelling techniques to guide users through the dashboard.
-- Configured subscriptions and alerts to deliver timely insights to stakeholders.
+- [Configured subscriptions and alerts](https://github.com/Dhanushwr/Trailwind-Traders-sales-and-Profit-analysis/blob/main/Subscription%20mail.pdf) to deliver timely insights to stakeholders.
 
 ## _**Conclusion**_
 The Tailwind Traders dashboard successfully addresses the company's need for actionable insights. It empowers decision-makers to identify trends, optimize operations, and drive business growth.
