@@ -24,7 +24,7 @@ The primary goal of this project is to empower Tailwind Traders with a data-driv
 - Assigned appropriate data types for columns.
 - Performed data quality checks and filtered data as needed.
 
-## _**Data Modeling**_
+## [_**Data Modeling**_](https://github.com/Dhanushwr/Trailwind-Traders-sales-and-Profit-analysis/blob/main/Data%20model.png)
 
 - Designed a snowflake schema for optimized data storage and performance.
 - Established relationships between tables using appropriate cardinalities and cross filter directions.
