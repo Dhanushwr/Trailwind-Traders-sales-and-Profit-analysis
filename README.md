@@ -2,18 +2,20 @@
 ---
 
 ## **_Table of Contents_**
-1. Introduction
-2. Objective
-3. Aim
-4. [Prepare & Process](#Data-Preparation)
-5. Analyze
-6. Share
-7. Conclusion
+1. [Overview](#Overview)
+2. [Objective](#Objective)
+3. [Prepare & Process](#Data-Preparation)
+4. [Analyze](#Analysis)
+5. [Share](#Sharing)
+6. [Conclusion](#Conclusion)
 
 ---
 
 ## **_Overview_**
 This project outlines the development of a Power BI dashboard for Tailwind Traders to analyze and visualize sales and profit data. The dashboard empowers decision-making by providing a comprehensive view of global sales and profit performance.
+
+## **_Objective_**
+The primary goal of this project is to empower Tailwind Traders with a data-driven decision-making platform. By providing a comprehensive view of global sales and profit performance, the dashboard will enable the company to identify trends, opportunities, and areas for improvement.
 
 ## _**Data Preparation**_
 
