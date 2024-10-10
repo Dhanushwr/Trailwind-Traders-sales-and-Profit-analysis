@@ -1,4 +1,4 @@
-# Trailwind-Traders-sales-and-Profit-analysis
+# [Trailwind-Traders-sales-and-Profit-analysis](https://github.com/Dhanushwr/Trailwind-Traders-sales-and-Profit-analysis/blob/main/Project%20Report.pdf)
 ---
 
 ## **_Table of Contents_**
